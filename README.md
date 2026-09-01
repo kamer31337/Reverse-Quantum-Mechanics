@@ -120,3 +120,5 @@ Reverse-Quantum-Mechanics/
 2. Carcassi, G.; Aidala, C. A. *Assumptions of Physics*. Michigan Publishing (2021).
 3. Carcassi, G.; Calderón, F.; Aidala, C. A. *The Unphysicality of Hilbert Spaces*. Quantum Studies: Mathematics and Foundations 12, 13 (2025).
 4. Carcassi, G.; Landini, M.; Aidala, C. A. *Classical mechanics as the high-entropy limit of quantum mechanics*. Physica Scripta 101, 065105 (2026).
+
+## Mentioned Names might be fictional propagated over network not real theoretists
